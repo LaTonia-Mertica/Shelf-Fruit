@@ -1,0 +1,33 @@
+body {
+  font-size: larger;
+  margin-left: 23px;
+}
+
+#apple-shelf,
+#orange-shelf,
+#pear-shelf,
+#lemon-shelf,
+#watermelon-shelf {
+  padding: 11px;
+  width: 25%;
+}
+
+#apple-shelf {
+  background-color: red;
+}
+
+#orange-shelf {
+  background-color: orange;
+}
+
+#pear-shelf {
+  background-color: greenyellow;
+}
+
+#lemon-shelf {
+  background-color: yellow;
+}
+
+#watermelon-shelf {
+  background-color: palevioletred;
+}
