@@ -1,4 +1,5 @@
 # Shelf Fruit
+*solid sprint for meticulous coding, creating an array with non-image images such as emojis, document.getElementById() function, and textContent with plus equals ... simple while powerful code*
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
